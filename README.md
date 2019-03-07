@@ -32,6 +32,15 @@ C# homework02, by LuYuan
 1. add some annotation to MainWindow.xaml and MainWindow.xaml.cs
 2. add a button "HelloWithArgs", if you click this button, the screen will print "hello world" and the arguments of command line
 3. the default arguments are "argument01" and "argument02"
+4. result screencut (by vs compiler) ![screen ](screencut/5.gif)
+5. result screencut (by command line) ![screen ](screencut/6.gif)
 
 ## homwork02d
 ##### first edition(8c4b6cb), released in 19:42, March 5th, 2019
+1. add a button "button1"
+2. if you click this button, the screen will print "hello world"
+##### second edition(6bbef2b), released in 10:41, March 7th, 2019
+1. change the name, text, size and location of the button
+2. change the size of the form
+3. result screencut (by vs compiler) ![screen ](screencut/7.gif)
+4. result screencut (by command line) ![screen ](screencut/8.gif)
