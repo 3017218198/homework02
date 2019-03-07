@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace homework02d
 {
-    public partial class Form1 : Form
+    public partial class button_Click : Form
     {
-        public Form1()
+        public button_Click()
         {
             InitializeComponent();
         }

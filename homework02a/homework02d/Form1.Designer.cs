@@ -1,6 +1,6 @@
 ﻿namespace homework02d
 {
-    partial class Form1
+    partial class button_Click
     {
         /// <summary>
         /// 必需的设计器变量。
@@ -33,11 +33,14 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(2, 0);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
+            // reset the size and location of button "hello"
+            // reset the text to "hello"
+            // reset the name of the button to "hello-button"
+            this.button1.Location = new System.Drawing.Point(350, 200);
+            this.button1.Name = "hello-button";
+            this.button1.Size = new System.Drawing.Size(100, 50);
             this.button1.TabIndex = 0;
-            this.button1.Text = "button1";
+            this.button1.Text = "hello";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
